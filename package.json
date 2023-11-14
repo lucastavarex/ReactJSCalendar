@@ -22,19 +22,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
-  
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ericz1803/react-google-calendar.git"
-  },
-  "author": "Eric Zhou",
-  "license": "MIT",
-  "keywords": [
-    "react",
-    "google",
-    "calendar",
-    "google-calendar"
-  ],
+
   "peerDependencies": {
     "@emotion/react": "^11.11.1",
     "react": "^16.8.0 || ^17 || ^18",
