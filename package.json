@@ -1,5 +1,4 @@
 {
-  "name": "@ericz1803/react-google-calendar",
   "version": "4.3.1",
   "description": "React Google Calendar Component",
   "main": "dist/react-google-calendar.umd.js",
