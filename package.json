@@ -16,11 +16,6 @@
   ],
   "homepage": "https://lucastavarex.github.io/ReactJSCalendar",
   "scripts": {
-    "test": "vitest run",
-    "test-watch": "vitest",
-    "coverage": "vitest run --coverage",
-    "storybook": "storybook dev -p 6006",
-    "build-storybook": "storybook build",
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
